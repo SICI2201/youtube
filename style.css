@@ -1,0 +1,36 @@
+
+header{
+    display:flex;
+    justify-content: space-between;
+    background-color: aqua;
+    align-items: center;
+    
+    }
+    
+     
+  .center{
+        border: 1px solid #ccc;
+        width:  404px;
+        height: 40px;
+        display:flex;
+        align-items:center;
+    
+    }
+    
+   .center input{
+    width: 350px;
+    height: 30px;
+    border:none;
+    outline: none;/*border cursos foco */
+    font-size: 20px;
+    }
+    
+.center button{
+    width:57px;
+    height:40px;
+    top:8px;
+    left: 873px;
+    border:1px solid #cccc;
+    
+    
+    }
